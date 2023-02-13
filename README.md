@@ -1,4 +1,4 @@
-# Projeto calculo de  IMC
+# Projeto cálculo de  IMC
 
 O **IMC** é uma medida que usa sua altura e peso para saber se seu peso é saudável. O **IMC** leva em consideração as variações naturais na forma do corpo, dando uma faixa de peso saudável para uma determinada altura.
 <br><br>Conceitos de JavaScript abordados no projeto: 
